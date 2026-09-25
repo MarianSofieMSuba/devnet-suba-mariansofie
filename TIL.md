@@ -1,4 +1,4 @@
-# TIL — Today I Learned
+# TIL — Today I Learned to create a python file then commit it
 
 A running log of small things you learn along the way — not a full topic,
 just quick notes whenever something clicks or trips you up. Add to this
