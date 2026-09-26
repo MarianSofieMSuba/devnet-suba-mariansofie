@@ -26,6 +26,7 @@ def display_menu():
         remove_device()
 
     elif input == 6:
+        main()
         
 
 
@@ -45,6 +46,7 @@ def view_devices(device_list):
     for view in devices:
         print(view)
 
+
 def count_active_inactive(device_list):
     # loop through, count Active vs Inactive, return both
 
@@ -58,19 +60,28 @@ def find_device(device_list):
     if input == devices:
         print(devices)
 
+
+    pass
+
 # BONUS (optional)
 def remove_device(device_list):
     # your code here
 
-    devices.remove()
+    devices.remove(input("-----------------\n=== Remove a Device ===\nName of the Device:"))
 
-    pass
+    return display_menu()
 
 def main():
     running = True
     while running:
-        choice = display_menu()
         # use if/elif to call the right function based on choice
         # set running = False when the user picks Exit
+
+        choice = display_menu()
+
+        if running == True:
+            continue
+        elif running == False:
+            continue
 
 main()
