@@ -14,3 +14,6 @@ anytime, not just during formal lessons.
 
 # September 27 2026
 - Relearned the differences between Tuples and Lists again from lesson 1, might add more but that will depend
+
+# September 27 2026
+- Learned the syntax for logical operators in Python, possibly might add more
