@@ -1,13 +1,17 @@
 # Module 1 — Git & GitHub
 
 **Student:** Marian Sofie M. Suba
-**Date:** 9/25/2026
+**Date:** 9/25/2026 - 9/27/2026
 
 ---
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
 [Write your own explanation here. What problem does Git actually solve? How is GitHub different from Git itself?]
+
+I think Git helps to keep track with their file and code changes,
+it also solves the overwriting problem when more than one developers work on the same project
+Github on the other hand is an online hub where people can store their projects
 
 ---
 
@@ -54,3 +58,5 @@ My first mistake was forgetting to input a message description during my git com
 ## How this connects to something else
 
 [Optional: how does version control relate to anything else you've learned or used before?]
+
+
