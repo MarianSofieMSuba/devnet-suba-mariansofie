@@ -11,3 +11,6 @@ anytime, not just during formal lessons.
 
 # September 25
 - Figuring out how to use the syntaxes for os module and shutil, would require more time to learn
+
+# September 27 2026
+- Relearned the differences between Tuples and Lists again from lesson 1, might add more but that will depend
