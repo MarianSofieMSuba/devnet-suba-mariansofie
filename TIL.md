@@ -17,3 +17,6 @@ anytime, not just during formal lessons.
 
 # September 27 2026
 - Learned the syntax for logical operators in Python, possibly might add more
+
+# October 3 2026
+- Learned about loops for lists
