@@ -20,3 +20,7 @@ anytime, not just during formal lessons.
 
 # October 3 2026
 - Learned about loops for lists
+
+# October 25 2026
+- Finished API
+- Added template for lesson 4
