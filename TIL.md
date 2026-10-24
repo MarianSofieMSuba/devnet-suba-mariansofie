@@ -22,5 +22,5 @@ anytime, not just during formal lessons.
 - Learned about loops for lists
 
 # October 25 2026
-- Finished API
+- Finished API folder and familiarized myself a little bit towards request.get and Dictionary
 - Added template for lesson 4
